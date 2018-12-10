@@ -27,7 +27,6 @@ or you can just add it in your composer.json
 
 Next, run `composer update`.
 
-
 ## Usage
 
 a). Add in `providers` array,
