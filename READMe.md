@@ -1,10 +1,5 @@
 # Subscription Package
 
-[![Latest Version on Packagist][ico-version]][link-packagist]
-[![Total Downloads][ico-downloads]][link-downloads]
-[![Build Status][ico-travis]][link-travis]
-[![StyleCI][ico-styleci]][link-styleci]
-
 It will create a complete subscription functionality except Payment Gateway.
 Here we provide subscription CRUD with search and pagination. Here Admin can assign subscription plan to user.
 
