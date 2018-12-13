@@ -51,7 +51,7 @@ If you discover any security related issues, please email friends@gmail.com inst
 
 ## Credits
 
-- [Kavita]
+- [Hestalabs]
 
 ## License
 
